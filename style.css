@@ -1,0 +1,99 @@
+body
+{
+    margin: 0;
+    padding: 5%;
+}
+.head-font
+{
+    font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+    color: black;
+    border-left: 4px solid;
+    border-image-slice: 1;
+    padding-left: 1%;
+}
+#head-font-2
+{
+    color: slateblue;
+}
+.head-font-p
+{
+    font-size: 18px;
+    color: #3E3E3E;
+}
+.head-font-p-2
+{
+    font-size: 16px;
+    color: #434343;
+}
+p
+{
+    font-family: 'Poppins', sans-serif;
+}
+.flexible-container
+{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-width
+{
+    width: 60%;
+    padding-right: 5%;
+}
+
+.half-width img
+{
+    width: 400px;
+    margin-left: 50%;
+}
+button
+{
+    background-color:#6b57ee;
+  border: none;
+  height: 48px;
+  width: 172px;
+  color: white;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#mid-font
+{
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    font: bold;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+.mission-area img
+{
+    width: 126px;
+}
+.mission-font-p
+{
+    font-size: 24px;
+    font-weight: 600;
+}
+.miss-item
+{
+    border-radius: 26px;
+    padding: 16px;
+    height: 376px;
+    width: 360px;
+    width: auto;
+}
+#miss
+{
+    background-color: #eef6f7;
+}
+#miss2
+{
+    background-color: #ffefef;
+    margin-left: 4%;
+}
+#miss3
+{
+    background-color: #fff4d6;
+    margin-left: 8%;
+}
