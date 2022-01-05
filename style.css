@@ -1,7 +1,10 @@
 body
 {
     margin: 0;
-    padding: 5%;
+}
+.for-padding
+{
+    padding: 5% 5% 0% 5%;
 }
 .head-font
 {
@@ -85,15 +88,95 @@ button
 }
 #miss
 {
-    background-color: #eef6f7;
+    background-color: #ade2e9;
 }
 #miss2
 {
-    background-color: #ffefef;
-    margin-left: 4%;
+    background-color: #f5bebe;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 #miss3
 {
-    background-color: #fff4d6;
-    margin-left: 8%;
+    background-color: #f7e4b1;
+}
+.second-half-width
+{
+    width: 33%;
+    padding-right: 5%;
+}
+.second-second-half-width
+{
+    width: 67%;
+    padding-right: 5%;
+}
+.second-half-width img
+{
+    width: 400px;
+}
+.second-half-font
+{
+    font-size: 36px;
+    font-weight: 700;
+    color: #333333;
+
+}
+#button2
+{
+    width: 243px;
+}
+.fourth-chamber
+{
+    margin-top: 6%;
+}
+.mission-area img
+{
+    width: 126px;
+}
+.mission-font-p
+{
+    font-size: 24px;
+    font-weight: 600;
+}
+.miss-item
+{
+    border-radius: 26px;
+    padding: 16px;
+    height: 376px;
+    width: 360px;
+    width: auto;
+}
+#miss
+{
+    background-color: #ade2e9;
+}
+#miss2
+{
+    background-color: #f5bebe;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#miss3
+{
+    background-color: #f7e4b1;
+}
+
+footer
+{
+    text-align: center;
+    height: 150px;
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+}
+.footer-font
+{
+    color:slateblue;
+}
+footer p
+{
+    color: #D9DBE1;
 }
