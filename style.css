@@ -129,38 +129,28 @@ button
 {
     margin-top: 6%;
 }
-.mission-area img
+.web-dev-area
 {
-    width: 126px;
+    background-color: #484372;
+    padding: 5%;
+    border-radius: 26px;
+    margin-bottom: 4%;
+    color: white;
 }
-.mission-font-p
-{
-    font-size: 24px;
-    font-weight: 600;
-}
-.miss-item
+.web-dev-area img
 {
     border-radius: 26px;
-    padding: 16px;
-    height: 376px;
-    width: 360px;
-    width: auto;
+    width: 500px;
 }
-#miss
+.last-half-width
 {
-    background-color: #ade2e9;
+    width: 50%;
+    padding-right: 5%;
 }
-#miss2
+.last-half-font
 {
-    background-color: #f5bebe;
-    margin-left: 3%;
-    margin-right: 3%;
+    font-weight: 700;
 }
-#miss3
-{
-    background-color: #f7e4b1;
-}
-
 footer
 {
     text-align: center;
