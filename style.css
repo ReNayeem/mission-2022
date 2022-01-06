@@ -4,9 +4,9 @@ body
 }
 .for-padding
 {
-    padding: 5% 5% 0% 5%;
+    padding: 0% 5% 0% 5%;
 }
-.head-font
+.first-banner-h1-font
 {
     font-family: 'Yeseva One', cursive;
     font-size: 60px;
@@ -15,16 +15,16 @@ body
     border-image-slice: 1;
     padding-left: 1%;
 }
-#head-font-2
+#first-banner-h1-font-2
 {
     color: slateblue;
 }
-.head-font-p
+.first-banner-p-font
 {
     font-size: 18px;
     color: #3E3E3E;
 }
-.head-font-p-2
+.first-banner-h1-font-2
 {
     font-size: 16px;
     color: #434343;
@@ -38,16 +38,17 @@ p
     display: flex;
     margin-bottom: 50px;
 }
-.half-width
+.first-banner-half-width
 {
     width: 60%;
     padding-right: 5%;
 }
 
-.half-width img
+.first-banner-half-width img
 {
-    width: 400px;
-    margin-left: 50%;
+    width: 500px;
+    margin-left:33%;
+    margin-top: 5%;
 }
 button
 {
@@ -60,7 +61,7 @@ button
   font-size: 16px;
   cursor: pointer;
 }
-#mid-font
+#mission-area-h1-font
 {
     border: none;
     font-family: 'Poppins', sans-serif;
@@ -73,53 +74,57 @@ button
 {
     width: 126px;
 }
-.mission-font-p
+.mission-h2-font
 {
     font-size: 24px;
     font-weight: 600;
 }
-.miss-item
+.mission-item
 {
     border-radius: 26px;
     padding: 16px;
     height: 376px;
-    width: 360px;
     width: auto;
 }
-#miss
+#mission
 {
     background-color: #ade2e9;
 }
-#miss2
+#mission-2
 {
     background-color: #f5bebe;
     margin-left: 3%;
     margin-right: 3%;
 }
-#miss3
+#mission-3
 {
     background-color: #f7e4b1;
 }
-.second-half-width
+.second-banner-half-width
 {
     width: 33%;
     padding-right: 5%;
 }
-.second-second-half-width
+.second-second-banner-half-width
 {
     width: 67%;
     padding-right: 5%;
 }
-.second-half-width img
+.second-banner-half-width img
 {
     width: 400px;
 }
-.second-half-font
+.second-banner-h1-font
 {
     font-size: 36px;
     font-weight: 700;
     color: #333333;
+    margin-top: 7%;
 
+}
+#third-banner-h1-font
+{
+    margin-top: 8%;
 }
 #button2
 {
@@ -129,7 +134,7 @@ button
 {
     margin-top: 6%;
 }
-.web-dev-area
+.last-banner
 {
     background-color: #484372;
     padding: 5%;
@@ -137,19 +142,33 @@ button
     margin-bottom: 4%;
     color: white;
 }
-.web-dev-area img
+.last-banner img
 {
     border-radius: 26px;
     width: 500px;
 }
-.last-half-width
+.last-banner-half-width
 {
     width: 50%;
     padding-right: 5%;
 }
-.last-half-font
+.last-banner-half-font
 {
     font-weight: 700;
+}
+.last-banner-h1-font
+{
+    font-size: 36px;
+    font-weight: 700;
+    color: #ffffff;
+}
+.last-banner-h1-font-2
+{
+    color: tomato;
+}
+.last-banner-p-font
+{
+    color: thistle;
 }
 footer
 {
@@ -162,7 +181,7 @@ footer
 footer h1{
     font-family: 'Lobster', cursive;
 }
-.footer-font
+.footer-h1-font
 {
     color:slateblue;
 }
