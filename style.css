@@ -47,7 +47,7 @@ p
 .first-banner-half-width img
 {
     width: 500px;
-    margin-left:33%;
+    margin-left:32%;
     margin-top: 5%;
 }
 button
@@ -76,8 +76,8 @@ button
 }
 .mission-h2-font
 {
-    font-size: 24px;
-    font-weight: 600;
+    font-size: 25px;
+    font-weight: 700;
 }
 .mission-item
 {
@@ -180,6 +180,7 @@ footer
 }
 footer h1{
     font-family: 'Lobster', cursive;
+    font-weight: 500;
 }
 .footer-h1-font
 {
